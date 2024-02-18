@@ -4,6 +4,7 @@
 // @version      1.0
 // @description  Replace specific IP addresses with custom names in the table on admin queries page.
 // @author       spencer119
+// @install      https://raw.githubusercontent.com/spencer119/userscripts/master/pihole-add-hostname.js
 // @match        http://10.0.0.111/admin/queries.php*
 // @grant        none
 // ==/UserScript==
