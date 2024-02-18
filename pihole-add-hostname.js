@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         pihole add hostname
-// @namespace    https://github.com/spencer119/userscripts
+// @namespace    https://github.com/spencer119/userscripts/
+// @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Replace specific IP addresses with custom names in the table on admin queries page.
 // @author       spencer119
