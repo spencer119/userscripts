@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Add Reddit and GitHub filters to Google search results
-// @author       You
+// @author       spencer119
 // @match        https://www.google.com/search*
 // @grant        none
 // ==/UserScript==
