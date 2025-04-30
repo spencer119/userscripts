@@ -1,9 +1,10 @@
 // ==UserScript==
 // @name         Google Search - Reddit & GitHub Filters
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/spencer119/userscripts
 // @version      1.0
 // @description  Adds Reddit and GitHub filter buttons to Google search results
-// @author       You
+// @author       spencer119
+// @homepage     https://github.com/spencer119/userscripts
 // @match        https://www.google.com/search*
 // @match        https://google.com/search*
 // @icon         https://www.google.com/favicon.ico
